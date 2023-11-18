@@ -1,0 +1,28 @@
+.main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.main-container .title-container {
+  text-align: center;
+}
+.main-container .title-container .title-name {
+  font-size: 2rem;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-weight: 500;
+}
+.main-container .title-container .text-test {
+  font-size: 2rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.user-title-name {
+  font-size: 55px;
+}/*# sourceMappingURL=main.css.map */
